@@ -1,0 +1,12 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\alexkhatuntsev\documents\visual studio 2013\projects\purchasemanageruniversalapp\purchasemanageruniversalapp\purchasemanageruniversalapp.windows\obj\debug\intermediatexaml\purchasemanageruniversalapp.windows.exe" HashGuid="3c3b5e36-f168-97e9-b31d-bfa0a93c4d97" />
+    <ReferenceAssembly PathName="c:\users\alexkhatuntsev\documents\visual studio 2013\projects\purchasemanageruniversalapp\dataaccess\bin\debug\dataaccess.dll" HashGuid="3b762fe8-9404-9663-7d8f-8a1e26cb76fb" />
+    <ReferenceAssembly PathName="c:\users\alexkhatuntsev\documents\visual studio 2013\projects\purchasemanageruniversalapp\packages\mvvmlightlibs.5.1.1.0\lib\windows81\galasoft.mvvmlight.dll" HashGuid="d702f8e6-9904-1220-8de7-be8614bf93e8" />
+    <ReferenceAssembly PathName="c:\users\alexkhatuntsev\documents\visual studio 2013\projects\purchasemanageruniversalapp\packages\mvvmlightlibs.5.1.1.0\lib\windows81\galasoft.mvvmlight.extras.dll" HashGuid="f59e2cac-89a1-06f4-bbe7-18857251ef78" />
+    <ReferenceAssembly PathName="c:\users\alexkhatuntsev\documents\visual studio 2013\projects\purchasemanageruniversalapp\packages\mvvmlightlibs.5.1.1.0\lib\windows81\galasoft.mvvmlight.platform.dll" HashGuid="27c4f135-c15f-18a2-cb9f-847748d33bdb" />
+    <ReferenceAssembly PathName="c:\users\alexkhatuntsev\documents\visual studio 2013\projects\purchasemanageruniversalapp\packages\commonservicelocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\microsoft.practices.servicelocation.dll" HashGuid="89de7f80-26d8-a17c-5ad9-b855f81ea5b2" />
+    <ReferenceAssembly PathName="c:\users\alexkhatuntsev\documents\visual studio 2013\projects\purchasemanageruniversalapp\models\bin\debug\models.dll" HashGuid="f2aebda1-5bcf-95e9-5cab-5ed07e6bfa9a" />
+    <ReferenceAssembly PathName="c:\users\alexkhatuntsev\documents\visual studio 2013\projects\purchasemanageruniversalapp\viewmodels\bin\debug\viewmodels.dll" HashGuid="5adb1f55-8cdb-d0f0-8479-241ca8b01259" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

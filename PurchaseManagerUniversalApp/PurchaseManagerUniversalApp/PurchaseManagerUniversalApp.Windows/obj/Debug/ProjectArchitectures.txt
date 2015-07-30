@@ -1,0 +1,6 @@
+C:\Users\AlexKhatuntsev\documents\visual studio 2013\Projects\PurchaseManagerUniversalApp\DataAccess\DataAccess.csproj;neutral
+C:\Users\AlexKhatuntsev\documents\visual studio 2013\Projects\PurchaseManagerUniversalApp\Models\Models.csproj;neutral
+C:\Users\AlexKhatuntsev\documents\visual studio 2013\Projects\PurchaseManagerUniversalApp\Models\Models.csproj;neutral
+C:\Users\AlexKhatuntsev\documents\visual studio 2013\Projects\PurchaseManagerUniversalApp\Models\Models.csproj;neutral
+C:\Users\AlexKhatuntsev\documents\visual studio 2013\Projects\PurchaseManagerUniversalApp\PurchaseManagerUniversalApp\PurchaseManagerUniversalApp.Windows\PurchaseManagerUniversalApp.Windows.csproj;neutral
+C:\Users\AlexKhatuntsev\documents\visual studio 2013\Projects\PurchaseManagerUniversalApp\ViewModels\ViewModels.csproj;neutral

@@ -1,0 +1,1 @@
+c:\users\alexkhatuntsev\documents\visual studio 2013\Projects\PurchaseManagerUniversalApp\PurchaseManagerUniversalApp\PurchaseManagerUniversalApp.WindowsPhone\PurchaseManagerUniversalApp.WindowsPhone.csproj;neutral

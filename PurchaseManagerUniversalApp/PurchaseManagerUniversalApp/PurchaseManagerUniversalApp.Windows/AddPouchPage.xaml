@@ -1,0 +1,37 @@
+﻿<Page
+    x:Class="PurchaseManagerUniversalApp.AddPouchPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PurchaseManagerUniversalApp.ViewModels"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.DataContext>
+        <local:AddPouchWin8ViewModel/>
+    </Page.DataContext>
+    <Page.TopAppBar>
+        <AppBar Padding="10,0,10,0" IsSticky="True">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                <AppBarButton Name ="BackButton" Icon="Back" Command="{Binding Back}"></AppBarButton>
+            </StackPanel>
+        </AppBar>
+    </Page.TopAppBar>
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid Margin="100">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition Width="200"/>
+                </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+            </Grid.RowDefinitions>
+            <TextBlock Text="Name" Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+            <TextBlock Text="Money" Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+            <TextBox Grid.Row="0" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" Width="100" Text="{Binding Pouch.Name, Mode=TwoWay}"/>
+            <TextBox Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" Width="100" Text="{Binding Pouch.Money, Mode=TwoWay}"/>
+            <Button x:Name="AddPouchButton" Content="Add" Grid.Row ="2" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Width="100" Command="{Binding AddPouch}"></Button>
+        </Grid>
+    </Grid>
+</Page>

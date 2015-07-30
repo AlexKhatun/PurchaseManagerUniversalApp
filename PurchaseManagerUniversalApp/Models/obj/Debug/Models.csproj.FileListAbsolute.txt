@@ -1,0 +1,17 @@
+c:\users\alexkhatuntsev\documents\visual studio 2013\Projects\PurchaseManagerUniversalApp\Models\bin\Debug\Models.dll
+c:\users\alexkhatuntsev\documents\visual studio 2013\Projects\PurchaseManagerUniversalApp\Models\bin\Debug\Models.pdb
+c:\users\alexkhatuntsev\documents\visual studio 2013\Projects\PurchaseManagerUniversalApp\Models\bin\Debug\Models.pri
+c:\users\alexkhatuntsev\documents\visual studio 2013\Projects\PurchaseManagerUniversalApp\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+c:\users\alexkhatuntsev\documents\visual studio 2013\Projects\PurchaseManagerUniversalApp\Models\obj\Debug\Models.dll
+c:\users\alexkhatuntsev\documents\visual studio 2013\Projects\PurchaseManagerUniversalApp\Models\obj\Debug\Models.pdb
+c:\users\alexkhatuntsev\documents\visual studio 2013\Projects\PurchaseManagerUniversalApp\Models\obj\Debug\priconfig.xml
+c:\users\alexkhatuntsev\documents\visual studio 2013\Projects\PurchaseManagerUniversalApp\Models\obj\Debug\priconfig.xml.intermediate
+c:\users\alexkhatuntsev\documents\visual studio 2013\Projects\PurchaseManagerUniversalApp\Models\obj\Debug\layout.resfiles
+c:\users\alexkhatuntsev\documents\visual studio 2013\Projects\PurchaseManagerUniversalApp\Models\obj\Debug\layout.resfiles.intermediate
+c:\users\alexkhatuntsev\documents\visual studio 2013\Projects\PurchaseManagerUniversalApp\Models\obj\Debug\resources.resfiles
+c:\users\alexkhatuntsev\documents\visual studio 2013\Projects\PurchaseManagerUniversalApp\Models\obj\Debug\resources.resfiles.intermediate
+c:\users\alexkhatuntsev\documents\visual studio 2013\Projects\PurchaseManagerUniversalApp\Models\obj\Debug\pri.resfiles
+c:\users\alexkhatuntsev\documents\visual studio 2013\Projects\PurchaseManagerUniversalApp\Models\obj\Debug\pri.resfiles.intermediate
+c:\users\alexkhatuntsev\documents\visual studio 2013\Projects\PurchaseManagerUniversalApp\Models\obj\Debug\qualifiers.txt
+c:\users\alexkhatuntsev\documents\visual studio 2013\Projects\PurchaseManagerUniversalApp\Models\obj\Debug\qualifiers.txt.intermediate
+c:\users\alexkhatuntsev\documents\visual studio 2013\Projects\PurchaseManagerUniversalApp\Models\obj\Debug\MultipleQualifiersPerDimensionFound.txt
